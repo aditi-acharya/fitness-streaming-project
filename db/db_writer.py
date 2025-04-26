@@ -3,7 +3,7 @@ import mysql.connector
 # UPDATE THESE with your actual MySQL details
 MYSQL_HOST = "172.19.96.1"
 MYSQL_USER = "ubuntu"
-MYSQL_PASSWORD = "adzoopass"
+MYSQL_PASSWORD = "*****"
 MYSQL_DB = "fitness_data"
 
 def insert_aggregate(data):
