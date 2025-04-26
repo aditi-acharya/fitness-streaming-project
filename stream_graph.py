@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 conn = mysql.connector.connect(
     host="172.19.96.1",
     user="ubuntu",
-    password="adzoopass",
+    password="*****",
     database="fitness_data"
 )
 
